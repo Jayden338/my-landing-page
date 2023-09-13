@@ -1,3 +1,4 @@
+/* PAGE STYLE AND DISPLAY */
 * {
     margin:0;
     padding:0;    
@@ -9,19 +10,6 @@ body{
     font-size: 20px; 
 } 
 
-main{
-    padding-top: 4%;
-} 
-
-li{
-    display: inline; 
-    padding-right: 2%;
-} 
-
-a{
-    text-decoration: none; 
-   color: white
-}
 
 header, 
 footer{ 
@@ -32,27 +20,47 @@ footer{
    
 } 
 
+/* HEADER*/
 header{
     position: fixed;
     border-bottom: 10px solid black; 
 } 
 
-
+/* HEADER STYLES AND COLOUR */
 nav{ 
     color: white; 
 } 
 
-footer{
-    border-bottom: 10px solid black;
-    position: absolute;
-    color: white;
+li{
+    display: inline; 
+    padding-right: 2%;
 } 
 
- img{
+a{
+    text-decoration: none; 
+    color: white
+}
+
+/* MAIN */
+main{
+    padding-top: 4%;
+} 
+
+h2{
+background-color: bisque; 
+padding: 1%;
+} 
+h4{
+    padding: 1%;
+} 
+
+/* IMG DISPLAY */
+img{
     display: block;
     margin: 1% auto;
 } 
 
+/* SECTION DISPLAY */
 section {
     border-bottom: 3px solid grey; 
     margin: 0; 
@@ -72,6 +80,7 @@ input{
  
 } 
 
+/* BUTTON DISPLAY */
 button{
     background-color: rgb(66, 66, 66);
     color: white;
@@ -81,6 +90,7 @@ button{
     
 } 
 
+/* CLASS SELECTORS */
 .text-center {
     text-align: center;
 } 
@@ -89,10 +99,10 @@ button{
     text-align: right;  
 
 } 
-h2{
-background-color: bisque; 
-padding: 1%;
+
+/* FOOTER */
+footer{
+    border-bottom: 10px solid black;
+    position: absolute;
+    color: white;
 } 
-h4{
-    padding: 1%;
-}
