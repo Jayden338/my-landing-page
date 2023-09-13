@@ -1,4 +1,4 @@
-## MY Landing Page
+## My Landing Page
 
 ## Descripton
 I have built a Landing Page using CSS and HTML for my first Student Mini Project. 
