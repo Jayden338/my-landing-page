@@ -17,9 +17,11 @@ To view my Github or Portfolio you can click on the buttons on the top right cor
 ## Installation 
 
 N/A 
+
 # Bugs 
 
 At this time the send button doesnt send anything to my email and the Portfolio button doesn't have a link as I don't have a Portfolio made yet, but is planned for the future.
+
 ## Credits 
 
 N/A 
