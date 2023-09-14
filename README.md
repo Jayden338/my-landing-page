@@ -4,6 +4,8 @@
 
 I have built a Landing Page using CSS and HTML for my first Student Mini Project for my first week of my coding bootcamp course I had to build it from scratch to learn how to make a simple website with some basic code and how to style with everything I have learnt. 
 
+## Screenshot
+
 ![My Landing Page Is Live](https://github.com/Jayden338/horiseon-services/assets/136901914/11a9d43d-bc8a-4885-8ad3-1fed7712b8ca) 
 
 ## Usage 
