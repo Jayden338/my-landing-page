@@ -1,4 +1,4 @@
-## My Landing Page
+# My Landing Page
 
 ## Descripton
 I have built a Landing Page using CSS and HTML for my first Student Mini Project. 
@@ -13,6 +13,9 @@ To contact me personally you can click on the Contact button which will send you
 ## Credits 
 N/A 
 
-License 
-N/A
+## License 
+N/A 
+
+## Webisite Live URL
+
 ![My Landing Page Is Live](https://github.com/Jayden338/horiseon-services/assets/136901914/11a9d43d-bc8a-4885-8ad3-1fed7712b8ca)
